@@ -1,0 +1,42 @@
+body{
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXziCSbMCju6miV088DPEa9K2FqyJrbO2uQ&usqp=CAU");
+}
+
+header{
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#search {
+    border-radius: 6000px;
+    border-color: goldenrod;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movie{
+    width: 300px;
+    margin: 10px;
+    background-color: darkcyan;
+}
+
+.movie img{
+    width: 100%;
+    background-color: black;
+
+}
+
+.movie-info{
+    color:white;
+}
+
+.overview {
+    background-color: white;
+     
+}
+
